@@ -1,1 +1,38 @@
-/*  your css code here. If applicable */
+body {
+  background: #f7f7f7;
+  margin: 0;
+  font-family: serif;
+}
+
+.main-container {
+  margin: 0;
+  padding: 60px 0 0 48px;
+  background: #f7f7f7;
+}
+
+.main-container h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+
+.testimonial {
+  background: #fff;
+  border: 1px solid #bebebe;
+  padding: 32px 24px 24px 24px;
+  margin-bottom: 32px;
+  font-size: 22px;
+  border-radius: 0;
+  box-sizing: border-box;
+}
+
+.text {
+  margin: 0 0 30px 0;
+}
+
+.author {
+  text-align: right;
+  font-style: italic;
+  font-size: 22px;
+  margin: 0;
+}
